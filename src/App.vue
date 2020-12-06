@@ -14,7 +14,7 @@
 <script>
 
   import TeamCard from './components/TeamCard.vue';
-  //import PageFooter from './components/PageFooter.vue';
+  import PageFooter from './components/PageFooter.vue';
 
 export default {
   
